@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 
 /* BASIC */
+#navbarNav ul li a{
+border-radius: 10px;
 
+}
 html {
   background-color: #56baed;
 }
